@@ -21,6 +21,12 @@ To use this repository:
    uv sync
 
 3. If changes occured, i.e. new version of python to your own: `uv sync
+
+
+## Læsevejledning:
+
+QHP 2nd Edition: Sec 5.4, 5.5, 5.6
+
 ## Forberedelse
 
 Til hver lektion skal man forvente følgende:
