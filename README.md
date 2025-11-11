@@ -25,7 +25,7 @@ To use this repository:
 
 ## Læsevejledning:
 
-QHP 2nd Edition: Sec 5.4, 5.5, 5.6
+QHP 2nd Edition: Sec 5.8, 5.12, 5.13
 
 ## Forberedelse
 
