@@ -1,8 +1,5 @@
-# {{REPO_NAME}}
+# Cardiovascular System Hemodynamics
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
 ## ​ Usage
@@ -17,7 +14,7 @@ To use this repository:
 2. Clone it locally:
    ```bash
    git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_hemodynamics.git
-   cd cardiovascular_system_1
+   cd cardiovascular_system_hemodynamics
    uv sync
 
 3. If changes occured, i.e. new version of python to your own: `uv sync
