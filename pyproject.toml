@@ -14,11 +14,9 @@ dependencies = [
     "ipykernel",
 ]
 
-
 [dependency-groups]
-dev = [
-    "ipykernel",
-    "uv",
-]
+dev = ["ipykernel", "uv"]
+
+# Dette er nødvendigt for windows
 [tool.uv]
 link-mode = "copy"
